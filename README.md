@@ -1,4 +1,6 @@
 /*
-* Amackata's Codes
-* Garbanzo.com.ar/download
+
+Amackata's Codes
+Garbanzo.com.ar/download
+
 */
